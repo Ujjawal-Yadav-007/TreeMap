@@ -204,6 +204,7 @@
   transition: opacity 0.15s ease, transform 0.15s ease;
   opacity: 0.95;
   transform: translateY(0);
+  margin-top: 10px;
 }
 
 .tree-node input {
